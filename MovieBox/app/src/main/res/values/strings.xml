@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MovieBox</string>
+    <string name="drawer_on">Open</string>
+    <string name="drawer_off">Close</string>
+    <string-array name="drawer_list_items">
+        <item>Now Playing</item>
+        <item>Up Coming</item>
+        <item>Top Rated</item>
+        <item>Popular</item>
+        <!--<item>All Genres</item>-->
+    </string-array>
+    <string name="favorites">Favorites</string>
+    <string name="show_list_view">Show As List</string>
+    <string name="show_grid_view">Show As Grid</string>
+    <string name="setting">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search</string>
+    <string name="add_to_favorites">Add To Favorites</string>
+    <string name="trailers">Trailers</string>
+    <string name="description">Overview</string>
+</resources>
